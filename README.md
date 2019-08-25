@@ -88,7 +88,7 @@ cd android/contrib
 ./compile-ffmpeg.sh all
 ```
 
-![1566726355456](C:\Users\CZY\AppData\Roaming\Typora\typora-user-images\1566726355456.png)
+![](https://upload-images.jianshu.io/upload_images/2552605-628e45d314578ce2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 如果在运行了以上命令后控制台提示报了如下提示，那么这是因为 **compile-ffmpeg.sh** 不知道当前系统安装的 NDK 路径导致的
 
