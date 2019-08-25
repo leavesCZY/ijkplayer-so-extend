@@ -125,6 +125,10 @@ cd ..
 
 ### 五、so 库下载
 
-编译好的 so 库我已经上传到 GitHub 了，项目主页：[ijkplayer-so-extend](https://github.com/leavesC/ijkplayer-so-extend) （https://github.com/leavesC/ijkplayer-so-extend）。经测试，可以正常播放 wav 、ape 等格式的音频
+编译好的 so 库我已经上传到 GitHub 了，项目主页：[ijkplayer-so-extend](https://github.com/leavesC/ijkplayer-so-extend) 
+
+经测试，可以正常播放 wav 、ape 等格式的音频
 
 本文已收录至我的学习笔记合辑：[JavaKotlinAndroidGuide](https://github.com/leavesC/JavaKotlinAndroidGuide)
+
+https://github.com/leavesC/JavaKotlinAndroidGuide
